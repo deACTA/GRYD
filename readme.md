@@ -1,3 +1,28 @@
+<div align="center">
+  <img height="200" src="https://imgur.com/T3bZ8iW.gif"  />
+</div>
+
+###
+
+<h1 align="left"></h1>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=@deacta:matrix.org&logo=matrix&label=matrix&color=000000&logoColor=white&labelColor=000000&style=for-the-badge" height="40" alt="matrix logo"  />
+  <a href="mailto:deacta@tuta.io" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=deacta@tuta.io&logo=tutanota&label=TUTAnota&color=840010&logoColor=white&labelColor=840010&style=for-the-badge" height="40" alt="tutanota logo"  />
+  </a>
+</div>
+
+###
+
+<h1 align="center"></h1>
+
+###
+
+
+
 [EN]
   
                        GRYD YouTube Downloader • by deACTA
@@ -84,4 +109,5 @@
    MIT License • Свободное использование, изменение, распространение
 
    ────────────────────────────────────────────────────────────────────────────
+
    GRYD • 2025 • deACTA
